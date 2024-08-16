@@ -2,7 +2,7 @@ Here's a README for your project:
 
 ---
 
-# Smashed Filter: GLMC Classifer 
+# CS 754: Smashed Filter: GLMC Classifier 
 ## Objective
 
 This project aims to classify musical instruments into one of ten categories using the NSynth dataset. The categories are:
